@@ -2,7 +2,7 @@
 
 ## Pipeline overview 
 
-![Pipeline overview](figures/image.png)
+![Pipeline overview](figures/sc_atac_seqsystem_diagram.png)
 
 ### Dependencies
 
