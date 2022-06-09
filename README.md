@@ -1,4 +1,4 @@
-# sc-atac-submmit-calling
+# sc-atac-summit-calling
 
 ## Pipeline overview 
 
